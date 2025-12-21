@@ -1,28 +1,18 @@
 ---
-title: "Northwest Fisheries Science Center"
-favicon: "images/favicon.ico"
-image: "images/NOAA_Fisheries_logo_vertical.png"
+title: "Fish-PACE"
+favicon: "favicon.ico"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
 
-This GitHub organization is for staff at the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and their collaborators. 
-
-Contact: nwfsc.githubadmin@noaa.gov (for general GitHub Enterprise questions contact github.governance.team@noaa.gov)
-
-## How to find repositories? 
-
-* Click the tabs above for division specific information. 
-* Do a repository search with tags. Skim the repository list for ideas for tags.
-* Do a repository search by topic: marine mammals, stock assessment, genetics, salmon, ecosystem
-
-### Disclaimer
-
-<font size="2">
-The repositories in this GitHub org are scientific products and are not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
-</font>
+New satellite missions for the ocean environment—NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) launched in February 2024 and the upcoming GeoXO (Geostationary Extended Observations)—are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. The Fish-PACE project works to help people use these new products and innovate using them.
 
 
+## Trainings
 
+* [EDMW 2025](https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2025/) Introduction to using earth data in the cloud for scientific workflows: PACE hyperspectral ocean color data
+* [Fish-PACE HackWeek 2026](https://fish-pace.github.io/hackweek-2025/) Virtual Jan 26-30, 2026
+* HyperDawg: Bi-weekly informal discussions and experimentation
+* [NMFS HackHours](https://nmfs-opensci.github.io/NMFSHackDays-2025/): Though not hyperspectral focused, much of the training is relevant to working with hyperspectral data.
 

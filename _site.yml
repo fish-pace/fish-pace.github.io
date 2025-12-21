@@ -1,28 +1,20 @@
 name: "."
-title: "NWFSC GitHub Org"
+title: "Fish-PACE GitHub Org"
 description: |
-  NOAA Fisheries Northwest Fisheries Science Center GitHub organization
+  Hyperspectral ocean color for fisheries and ocean ecosystem applications
 favicon: "favicon.ico"
 output_dir: "docs"
-base_url: https://noaa-nwfsc.github.io
+base_url: https://fish-pace.github.io
 navbar:
   logo: 
-    image: images/noaa_digital_logo-2022.png
+    image: https://avatars.githubusercontent.com/u/232707349?s=48&v=4
   search: false
   right:
-    - text: "Home"
-      href: index.html
-    - text: "CB"
-      href: CB.html
-    - text: "FRAM"
-      href: FRAM.html
-    - text: "FE"
-      href: FE.html
-    - text: "EFS"
-      href: EFS.html   
+    - text: "HackWeek 2026"
+      href: https://fish-pace.github.io/hackweek-2025/
     - icon: fab fa-github
-      href: https://github.com/noaa-nwfsc/noaa-nwfsc.github.io
-theme: css/nmfs-palette-theme.css
+      href: https://github.com/fish-pace
+#theme: css/nmfs-palette-theme.css
 output:
   distill::distill_article:
     includes:
