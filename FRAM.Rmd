@@ -1,0 +1,28 @@
+---
+title: FRAM
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: false
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+# FRAM Division
+
+To find any repositories with the `nwfsc-fram` tag, click [nwfsc-fram search](https://github.com/search?q=topic%3Anwfsc-fram+org%3Anoaa-nwfsc&type=Repositories)
+
+
+More info
+
+
+

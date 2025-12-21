@@ -1,0 +1,18 @@
+---
+title: "Trestle"
+image: "images/NOAA_Fisheries_logo_vertical.png"
+description: |
+  Some additional details about the website
+output: 
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About
+
+This is a postcards template. See [https://github.com/seankross/postcards](https://github.com/seankross/postcards) for other templates.
+
+
