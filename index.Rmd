@@ -1,6 +1,14 @@
 ---
-title: "Fish-PACE"
+title: "Fish-PACE User Group"
 favicon: "favicon.ico"
+image: "images/pace_emblem_round_900w.png"
+links:
+  - label: Slack
+    url: "https://fish-pace.slack.com/"
+  - label: GitHub
+    url: "https://github.com/fish-pace"
+  - label: Email
+    url: "mailto:eli.holmes@noaa.gov"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -8,11 +16,17 @@ site: distill::distill_website
 
 New satellite missions for the ocean environment—NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) launched in February 2024 and the upcoming GeoXO (Geostationary Extended Observations)—are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. The Fish-PACE project works to help people use these new products and innovate using them.
 
+## Upcoming Events
 
-## Trainings
+* Intro to earthaccess Python package and on-boarding to the [CryoCloud JupyterHub](https://cryointhecloud.com/) for Fish-Pace UG members.
+* [CoastWatch Satellite Summer 201](https://coastwatch-training.github.io/trainings/upcoming/sat201_26.html) July 10, 17, 24 and 31, 2026, Virtual 11am - 1pm (Pacific Time). July 17th session is Ryan Vandermeulen presenting on PACE products beyond Chlorophyll for fisheries and ocean ecosystems applications.
+[Register](https://forms.gle/XGtZWLqMAueXZQZX9)
+* [OceanHackWeek 2026](https://oceanhackweek.org/ohw26/) will be August 24-28, 2026 at the Bamfield Marine Sciences Centre in BC, Canada. Applications open May 15. As in the past 2 years, Eli Holmes will mentor a Fish-PACE focused project. Great event for early career scientists.
 
+## Past Events
+
+* [Fish-PACE HackWeek Jan 2026](https://fish-pace.github.io/hackweek-2025/) Virtual Jan 26-30, 2026
 * [EDMW 2025](https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2025/) Introduction to using earth data in the cloud for scientific workflows: PACE hyperspectral ocean color data
-* [Fish-PACE HackWeek 2026](https://fish-pace.github.io/hackweek-2025/) Virtual Jan 26-30, 2026
-* HyperDawg: Bi-weekly informal discussions and experimentation
-* [NMFS HackHours](https://nmfs-opensci.github.io/NMFSHackDays-2025/): Though not hyperspectral focused, much of the training is relevant to working with hyperspectral data.
+* [HyperDawg](https://github.com/ocean-satellite-tools/hyperdawg): Bi-weekly informal discussions and experimentation
+* [NOAA Fisheries Friday HackHours](https://nmfs-opensci.github.io/NMFSHackDays-2026/): Though not hyperspectral focused, much of the training is relevant to working with hyperspectral data.
 
