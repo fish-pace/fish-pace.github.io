@@ -1,6 +1,14 @@
 ---
-title: "Fish-PACE"
+title: "Fish-PACE User Group"
 favicon: "favicon.ico"
+image: "images/pace_emblem_round_900w.png"
+links:
+  - label: Slack
+    url: "https://fish-pace.slack.com/"
+  - label: GitHub
+    url: "https://github.com/fish-pace"
+  - label: Email
+    url: "mailto:eli.holmes@noaa.gov"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -11,8 +19,7 @@ New satellite missions for the ocean environment—NASA's PACE (Plankton, Aeroso
 
 ## Trainings
 
-* [EDMW 2025](https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2025/) Introduction to using earth data in the cloud for scientific workflows: PACE hyperspectral ocean color data
-* [Fish-PACE HackWeek 2026](https://fish-pace.github.io/hackweek-2025/) Virtual Jan 26-30, 2026
-* HyperDawg: Bi-weekly informal discussions and experimentation
-* [NMFS HackHours](https://nmfs-opensci.github.io/NMFSHackDays-2025/): Though not hyperspectral focused, much of the training is relevant to working with hyperspectral data.
+* [Fish-PACE HackWeek Jan 2026](https://fish-pace.github.io/hackweek-2025/) Virtual Jan 26-30, 2026* [EDMW 2025](https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2025/) Introduction to using earth data in the cloud for scientific workflows: PACE hyperspectral ocean color data
+* [HyperDawg](https://github.com/ocean-satellite-tools/hyperdawg): Bi-weekly informal discussions and experimentation
+* [NOAA Fisheries Friday HackHours](https://nmfs-opensci.github.io/NMFSHackDays-2026/): Though not hyperspectral focused, much of the training is relevant to working with hyperspectral data.
 
