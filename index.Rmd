@@ -9,7 +9,7 @@ links:
     url: "https://github.com/fish-pace"
   - label: JupyterHub
     url: "https://cryointhecloud.com/"
-  - label: PACE Events
+  - label: Events
     url: https://pace.oceansciences.org/events.htm
   - label: Email
     url: "mailto:eli.holmes@noaa.gov"
