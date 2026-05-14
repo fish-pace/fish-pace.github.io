@@ -14,7 +14,7 @@ output:
 site: distill::distill_website
 ---
 
-New satellite missions for the ocean environment—NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) launched in February 2024 and the upcoming GeoXO (Geostationary Extended Observations)—are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. The Fish-PACE project works to help people use these new products and innovate using them.
+The Fish-PACE User Group serves as a forum for connecting, supporting, and growing the fisheries and ocean ecosystem user community around NASA’s NASA PACE mission and emerging ocean color products, with the goal of advancing applications for fisheries, marine ecosystems, and coastal decision-making. We support forums, events and trainings (workshops and hackweeks) to support fisheries and marine ecosystem applications for PACE data.
 
 ## Upcoming Events
 
