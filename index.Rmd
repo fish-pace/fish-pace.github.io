@@ -7,6 +7,8 @@ links:
     url: "https://fish-pace.slack.com/"
   - label: GitHub
     url: "https://github.com/fish-pace"
+  - label: JupyterHub
+    url: "https://cryointhecloud.com/"
   - label: Email
     url: "mailto:eli.holmes@noaa.gov"
 output:
