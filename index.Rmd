@@ -1,7 +1,7 @@
 ---
 title: "Fish-PACE User Group"
 favicon: "favicon.ico"
-image: "images/pace_emblem_round_900w.png"
+image: "images/pace-nmfs.png"
 links:
   - label: Slack
     url: "https://fish-pace.slack.com/"
