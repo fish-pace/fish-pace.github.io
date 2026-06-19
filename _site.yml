@@ -11,7 +11,7 @@ navbar:
   search: false
   right:
     - text: "Resources"
-      href: resources.html
+      href: resources.md
     - text: "HackWeek 2026"
       href: https://fish-pace.github.io/hackweek-2025/
     - icon: fab fa-github
