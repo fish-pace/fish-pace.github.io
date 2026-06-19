@@ -10,6 +10,8 @@ navbar:
     image: https://avatars.githubusercontent.com/u/232707349?s=48&v=4
   search: false
   right:
+    - text: "Resources"
+      href: resources.html
     - text: "HackWeek 2026"
       href: https://fish-pace.github.io/hackweek-2025/
     - icon: fab fa-github
