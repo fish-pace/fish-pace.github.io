@@ -1,3 +1,10 @@
+---
+title: "Resources"
+site: distill::distill_website
+output:
+  distill::distill_article
+---
+
 # Resources
 
 How to Join the Fish-PACE User Group? Come to one of our events!
